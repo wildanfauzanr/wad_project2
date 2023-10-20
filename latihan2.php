@@ -18,10 +18,6 @@
     #button{
       margin-top: 35px;
     }
-    
-    
-
-    
   </style>
 </head>
 
@@ -39,9 +35,7 @@
           <option>/</option>
         </select>
         <a href="#" id="button" class="btn btn-success">Hitung</a>
-      </div>
     </div>
   </div>
 </body>
-
 </html>
